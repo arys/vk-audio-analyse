@@ -1,5 +1,5 @@
 # vk-audio-analyse
-Script for analysing your and your vk friends audios for finding similar audios and estimating percentage of similarity
+Script for analysing your and your vk friend's audios for finding similar audios and estimating percentage of similarity
 
 ### Prerequisites
 Create .env file with vk api token in root folder.
